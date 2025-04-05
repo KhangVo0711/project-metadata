@@ -1,6 +1,6 @@
 {
-    "name": "Immutable zkEVM Sample Project",
-    "description": "A sample project for minting NFTs on Immutable zkEVM",
-    "image": "https://immutable.github.io/sample-project-metadata/collection.webp",
-    "external_link": "https://immutable.com" 
+    "name": "Space Fight Collection",
+    "description": "A collection of randomly generated spaceship NFTs for the Space Fight game on Immutable zkEVM. Each NFT features unique Rarity, Damage, HP, Energy, and Drop Rate attributes, with animated designs based on four rarity tiers: Common, Rare, Epic, and Legendary.",
+    "image": "https://yourgithubusername.github.io/sample-project-metadata/images/spaceship_collection.png",
+    "external_link": "https://immutable.com"
 }
