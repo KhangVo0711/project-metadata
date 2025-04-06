@@ -1,0 +1,49 @@
+{
+  "id": 2,
+  "image": "https://khangvo0711.github.io/project-metadata/images/plane_pink_up/plane_pink_up_4.png",
+  "token_id": "2",
+  "name": "Space Fighter #2",
+  "description": "A randomly generated spaceship from the Gacha Space Fight system on Immutable zkEVM Testnet. This is a test version, and the final version will be released on the mainnet.",
+  "attributes": [
+    {
+      "trait_type": "Độ hiếm",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Sát thương",
+      "value": 35
+    },
+    {
+      "trait_type": "Máu",
+      "value": 128
+    },
+    {
+      "trait_type": "Năng lượng",
+      "value": 65
+    },
+    {
+      "trait_type": "Tỷ lệ rơi",
+      "value": 13.604377746582031
+    },
+    {
+      "trait_type": "Số khung hình hoạt họa",
+      "value": "4"
+    },
+    {
+      "trait_type": "Khung hình Thường",
+      "value": "https://khangvo0711.github.io/project-metadata/images/plane_pink_up/plane_pink_up_1.png"
+    },
+    {
+      "trait_type": "Khung hình Hiếm",
+      "value": "https://khangvo0711.github.io/project-metadata/images/plane_pink_up/plane_pink_up_2.png"
+    },
+    {
+      "trait_type": "Khung hình Sử thi",
+      "value": "https://khangvo0711.github.io/project-metadata/images/plane_pink_up/plane_pink_up_3.png"
+    },
+    {
+      "trait_type": "Khung hình Huyền thoại",
+      "value": "https://khangvo0711.github.io/project-metadata/images/plane_pink_up/plane_pink_up_4.png"
+    }
+  ]
+}
