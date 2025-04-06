@@ -1,0 +1,49 @@
+{
+  "id": 8,
+  "image": "https://khangvo0711.github.io/project-metadata/images/plane_pink_up_4.png",
+  "token_id": "8",
+  "name": "Space Fighter #8",
+  "description": "Một tàu vũ trụ được tạo ngẫu nhiên từ hệ thống Gacha Space Fight trên Immutable zkEVM",
+  "attributes": [
+    {
+      "trait_type": "Độ hiếm",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Sát thương",
+      "value": 17
+    },
+    {
+      "trait_type": "Máu",
+      "value": 64
+    },
+    {
+      "trait_type": "Năng lượng",
+      "value": 23
+    },
+    {
+      "trait_type": "Tỷ lệ rơi",
+      "value": 9.5899019241333
+    },
+    {
+      "trait_type": "Số khung hình hoạt họa",
+      "value": "4"
+    },
+    {
+      "trait_type": "Khung hình Thường",
+      "value": "https://khangvo0711.github.io/project-metadata/images/plane_pink_up_1.png"
+    },
+    {
+      "trait_type": "Khung hình Hiếm",
+      "value": "https://khangvo0711.github.io/project-metadata/images/plane_pink_up_2.png"
+    },
+    {
+      "trait_type": "Khung hình Sử thi",
+      "value": "https://khangvo0711.github.io/project-metadata/images/plane_pink_up_3.png"
+    },
+    {
+      "trait_type": "Khung hình Huyền thoại",
+      "value": "https://khangvo0711.github.io/project-metadata/images/plane_pink_up_4.png"
+    }
+  ]
+}
