@@ -7,23 +7,23 @@
   "attributes": [
     {
       "trait_type": "Độ hiếm",
-      "value": "Rare"
+      "value": "Common"
     },
     {
       "trait_type": "Sát thương",
-      "value": 38
+      "value": 15
     },
     {
       "trait_type": "Máu",
-      "value": 115
+      "value": 79
     },
     {
       "trait_type": "Năng lượng",
-      "value": 74
+      "value": 36
     },
     {
       "trait_type": "Tỷ lệ rơi",
-      "value": 11.181072235107422
+      "value": 10.885894775390625
     },
     {
       "trait_type": "Số khung hình hoạt họa",
