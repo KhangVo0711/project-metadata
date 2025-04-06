@@ -1,0 +1,49 @@
+{
+  "id": 11,
+  "image": "https://khangvo0711.github.io/project-metadata/images/plane_red_up/plane_red_up_4.png",
+  "token_id": "11",
+  "name": "Space Fighter #11",
+  "description": "A randomly generated spaceship from the Gacha Space Fight system on Immutable zkEVM Testnet.",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Damage",
+      "value": 15
+    },
+    {
+      "trait_type": "HP",
+      "value": 59
+    },
+    {
+      "trait_type": "Energy",
+      "value": 27
+    },
+    {
+      "trait_type": "Drop_Rate",
+      "value": 9.115686416625977
+    },
+    {
+      "trait_type": "Frame",
+      "value": "4"
+    },
+    {
+      "trait_type": "frame_1",
+      "value": "https://khangvo0711.github.io/project-metadata/images/plane_red_up/plane_red_up_1.png"
+    },
+    {
+      "trait_type": "frame_2",
+      "value": "https://khangvo0711.github.io/project-metadata/images/plane_red_up/plane_red_up_2.png"
+    },
+    {
+      "trait_type": "frame_3",
+      "value": "https://khangvo0711.github.io/project-metadata/images/plane_red_up/plane_red_up_3.png"
+    },
+    {
+      "trait_type": "frame_4",
+      "value": "https://khangvo0711.github.io/project-metadata/images/plane_red_up/plane_red_up_4.png"
+    }
+  ]
+}
