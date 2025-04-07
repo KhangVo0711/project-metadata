@@ -1,0 +1,49 @@
+{
+  "id": 29,
+  "image": "https://khangvo0711.github.io/project-metadata/images/plane_pink/plane_pink_4.png",
+  "token_id": "29",
+  "name": "Space Fighter #29",
+  "description": "A randomly generated spaceship from the Gacha Space Fight system on Immutable zkEVM Testnet.",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Damage",
+      "value": 48
+    },
+    {
+      "trait_type": "HP",
+      "value": 314
+    },
+    {
+      "trait_type": "Energy",
+      "value": 80
+    },
+    {
+      "trait_type": "Drop_Rate",
+      "value": 18.959571838378906
+    },
+    {
+      "trait_type": "Frame",
+      "value": "4"
+    },
+    {
+      "trait_type": "frame_1",
+      "value": "https://khangvo0711.github.io/project-metadata/images/plane_pink/plane_pink_1.png"
+    },
+    {
+      "trait_type": "frame_2",
+      "value": "https://khangvo0711.github.io/project-metadata/images/plane_pink/plane_pink_2.png"
+    },
+    {
+      "trait_type": "frame_3",
+      "value": "https://khangvo0711.github.io/project-metadata/images/plane_pink/plane_pink_3.png"
+    },
+    {
+      "trait_type": "frame_4",
+      "value": "https://khangvo0711.github.io/project-metadata/images/plane_pink/plane_pink_4.png"
+    }
+  ]
+}
